@@ -1,3 +1,5 @@
+//class adalah private. dia akan mendefinisikan jenis data yang bisa di pakai dan fungsi yang dapat dipakai.
+//struct adalah public. sama seperti class namun struct bisa di akses oleh siapapun.
 #include <iostream>
 using namespace std;
 
