@@ -1,3 +1,5 @@
+//array adalah sekumpulan data yang disimpan ber urutan, mrmpunyai ukuran saat deklarasi dan jumlah elemennya tidak dapat diubah
+//map adalah sekumpulan data berupa pembagian dengan tipe yang berbeda dan jumlah elemennya dapat diubah.
 #include <iostream>
 #include <map>
 using namespace std;
